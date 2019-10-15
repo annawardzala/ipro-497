@@ -23,6 +23,10 @@ p {
   font-size: 1em; /* 16px = 1em */
 }
 
+ol li {
+  margin-top: 0.5em;
+}
+
 #reporting-form {
   margin-top: 1.5em; /* 24px / 16px */
 }
